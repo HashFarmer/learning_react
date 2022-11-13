@@ -1,0 +1,7 @@
+root component的概念
+app.js
+--navbar.js
+--blogdetails.js
+--sidebar.js
+----categaries.js
+----tags.js
