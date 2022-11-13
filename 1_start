@@ -12,3 +12,7 @@ component 的概念
 App.js -> index.js 
 
 App.js也是一个 component ，这个component也要整合到 index.js中
+
+
+
+
