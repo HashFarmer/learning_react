@@ -5,3 +5,7 @@ app.js
 --sidebar.js
 ----categaries.js
 ----tags.js
+
+components tree的概念
+
+在别的component的rerun中使用，使用方式 <componet_name  />
