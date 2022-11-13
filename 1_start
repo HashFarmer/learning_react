@@ -11,7 +11,7 @@ component 的概念
 
 App.js -> index.js 
 
-App.js也是一个 component ，这个component也要整合到 index.js中
+App.js也是一个 component ，这个component也要整合到 index.js中 ，组件 return的就是一个 template 页面
 
 
 
