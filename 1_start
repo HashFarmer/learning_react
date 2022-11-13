@@ -1,0 +1,6 @@
+npx create-react-app dojo-blog
+cd ./dojo-blog
+code .
+
+
+npm start # 启动一个server，server必须有一个对外暴露的根目录，根目录以外的内容不对外暴露
