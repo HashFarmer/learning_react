@@ -1,0 +1,6 @@
+
+
+const [state, setState] = useState(initialState)
+
+setState(newState)
+
