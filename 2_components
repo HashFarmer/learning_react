@@ -10,4 +10,6 @@ components tree的概念
 
 在别的component的rerun中使用，使用方式 <componet_name  />
 
-可以带props
+可以输给参赛
+可以带propsnt
+component的使用方法有点类似于函数
