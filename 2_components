@@ -12,4 +12,4 @@ components tree的概念
 
 可以输给参赛
 可以带propsnt
-component的使用方法有点类似于函数
+component的使用方法有点类似于函数，这些参数都是调用方或者（调用组件）提供的
