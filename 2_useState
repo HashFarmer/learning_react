@@ -7,3 +7,6 @@ setState(newState)
 
 useState中state变量的改变会触发 useEffect的调用
 
+useEffect(func, [])
+第1个变量是一个函数，第2个变量是state变量列表
+
